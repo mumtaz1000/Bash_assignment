@@ -1,0 +1,1 @@
+This file is created to check if bash6.sh is working or not.
