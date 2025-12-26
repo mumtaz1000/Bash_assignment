@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 read -p "Vill du konvertera från Fahrenheit eller Celsius? [F/C] : " choice;
 fahrenheit_to_celsius() {
       part_a=$(($fahrenheit-32))

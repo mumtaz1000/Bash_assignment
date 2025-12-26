@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 read -t 5 -p "Vad är din favoritfärg? " color
 
 if [ -z "$color" ]; then

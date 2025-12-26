@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 file_name="recept.txt";
 
 if test -f $file_name; then 

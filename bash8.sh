@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 read -p "Skriv in siffran för att få betyg. " grade;
 echo -n "Du är "
 if [[ $grade -lt 50 ]]; then
